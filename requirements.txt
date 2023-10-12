@@ -1,0 +1,11 @@
+sqlalchemy
+psycopg2-binary
+pydantic
+fastapi
+uvicorn
+pandas
+openpyxl
+requests
+pyyaml
+httpx
+pytest

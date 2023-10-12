@@ -1,0 +1,1 @@
+uvicorn postgresql_python_excel_app.main:app --reload
